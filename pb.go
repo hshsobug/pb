@@ -108,7 +108,7 @@ type ProgressBar struct {
 	CurrentN string
 
 	AlwaysUpdate bool
-	// sobug 速度
+	// sobug 速度属性
 	Speed float64
 }
 
